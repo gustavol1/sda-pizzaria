@@ -5,7 +5,7 @@
 
 body {
   background-color: #131313;
-  background-image: url("/img/background-pizza.png");
+  background-image: url("background-pizza.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -21,7 +21,7 @@ h1, footer a{
   width: 300px;
   overflow: hidden;
   text-indent: -9999px;
-  background: url("/img/logo-helloPizza.png") 0 0 no-repeat;
+  background: url("logo-helloPizza.png") 0 0 no-repeat;
   display: block;
 }
 
